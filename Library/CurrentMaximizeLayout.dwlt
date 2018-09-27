@@ -1,0 +1,2317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 12}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1901
+    height: 1095
+  m_MinSize: {x: 608, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 0
+  controlID: 2163
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1446.4
+    y: 822.4
+    width: 455
+    height: 344
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -182
+    m_HBaseRangeMax: 182
+    m_VBaseRangeMin: -130.8
+    m_VBaseRangeMax: 130.8
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 455
+      height: 327
+    m_Scale: {x: 1.25, y: 1.25}
+    m_Translation: {x: 227.5, y: 163.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -182
+      y: -130.8
+      width: 364
+      height: 261.6
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 568.75, y: 430}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1444
+    height: 1095
+  m_MinSize: {x: 406, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 2186
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 5}
+  - {fileID: 7}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1444
+    height: 730
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+  vertical: 0
+  controlID: 2187
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 384
+    height: 730
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 6}
+  m_Panes:
+  - {fileID: 6}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 92.8
+    width: 382
+    height: 709
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 200a0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: e6fbffff00000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - Character Development
+  m_CurrenRootInstanceID: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 384
+    y: 0
+    width: 1060
+    height: 730
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 8}
+  m_Panes:
+  - {fileID: 8}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 386.4
+    y: 92.8
+    width: 1056
+    height: 709
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 24058.045798848703
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: -4.460422, y: 0.34247217, z: -0.1788527}
+    speed: 2
+    m_Value: {x: -4.460422, y: 0.34247217, z: -0.1788527}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 4.8375115
+    speed: 2
+    m_Value: 4.8375115
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 730
+    width: 1444
+    height: 365
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 10}
+  m_Panes:
+  - {fileID: 10}
+  - {fileID: 11}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 822.4
+    width: 1442
+    height: 344
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Sprites
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets/Sprites
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: E:\Users\ReddRapter\Documents\Unity\Lemonade
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 200a0000
+    m_LastClickedID: 2592
+    m_ExpandedIDs: 00000000c4090000520a0000ea0b000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 9}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000c4090000520a0000ea0b000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 200a0000
+    m_LastClickedInstanceID: 2592
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 9a24000094240000000b0000762f0000783a000000000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 9}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 16
+  m_DirectoriesAreaWidth: 511
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 822.4
+    width: 1442
+    height: 344
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 13}
+  - {fileID: 16}
+  m_Position:
+    serializedVersion: 2
+    x: 1444
+    y: 0
+    width: 457
+    height: 1095
+  m_MinSize: {x: 202, y: 342}
+  m_MaxSize: {x: 4002, y: 8042}
+  vertical: 1
+  controlID: 2164
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 457
+    height: 730
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 14}
+  - {fileID: 15}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1446.4
+    y: 92.8
+    width: 455
+    height: 709
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: -160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 363648761, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: GitHub
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1446.4
+    y: 92.8
+    width: 455
+    height: 709
+  m_PersistentViewDataDictionary: {fileID: 0}
+  progressMessageClearTime: -1
+  notificationClearTime: -1
+  timeSinceLastRotation: -1
+  currentBranchAndRemoteHasUpdate: 0
+  currentTrackingStatusHasUpdate: 0
+  currentStatusEntriesHasUpdate: 0
+  repositoryProgressHasUpdate: 0
+  appManagerProgressHasUpdate: 0
+  changeTab: 3
+  activeTab: 3
+  initProjectView:
+    hasCompletedInitialCheck: 1
+    isUserDataPresent: 1
+    lastCheckUserChangedEvent:
+      updatedTimeString: 2018-09-22T20:02:17.586-07:00
+      cacheType: 7
+  branchesView:
+    treeLocals:
+      IsRemote: 0
+      folders:
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Local branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master
+        label: master
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 1
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    treeRemotes:
+      IsRemote: 1
+      folders:
+        keys:
+        - Remote branches
+        - origin
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+        - path: origin
+          label: origin
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: Remote branches
+      pathSeparator: /
+      displayRootNode: 1
+      isSelectable: 1
+      isCheckable: 0
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin
+        label: origin
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+    mode: 0
+    newBranchName: 
+    scroll: {x: 0, y: 0}
+    disableDelete: 1
+    disableCreate: 1
+    lastLocalAndRemoteBranchListChangedEvent:
+      updatedTimeString: 2018-09-26T19:49:40.216-07:00
+      cacheType: 2
+    lastCurrentBranchAndRemoteChange:
+      updatedTimeString: 2018-09-26T19:49:30.276-07:00
+      cacheType: 1
+    currentBranch:
+      name: master
+      tracking: origin/master
+    currentRemote:
+      name: origin
+      url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+      login: 
+      user: 
+      host: 
+      function: 0
+      token: 
+    localBranches:
+    - name: master
+      tracking: origin/master
+    remoteBranches:
+    - name: origin/master
+      tracking: '[None]'
+  changesView:
+    currentBranchHasUpdate: 0
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
+    commitBody: Adjusted movement, aiming control. Added ability to fire and prototyped
+      a bullet
+    commitMessage: Character prototype
+    currentBranch: '[master]'
+    treeScroll: {x: 0, y: 660}
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys: []
+        values: []
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 1
+      isCheckable: 1
+      isUsingGlobalSelection: 1
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    gitStatusEntries: []
+    changedFilesText: No changed files
+    lastCurrentBranchChangedEvent:
+      updatedTimeString: 2018-09-26T19:49:52.709-07:00
+      cacheType: 1
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2018-09-26T19:49:53.617-07:00
+      cacheType: 5
+    lastLocksChangedEvent:
+      updatedTimeString: 2018-09-26T19:49:53.769-07:00
+      cacheType: 6
+  historyView:
+    currentLogHasUpdate: 0
+    currentTrackingStatusHasUpdate: 0
+    historyControl:
+      scroll: {x: 0, y: 0}
+      entries:
+      - commitID: b738c39ee6039a311ed846783e3fc769b9f7a53e
+        mergeA: 
+        mergeB: 
+        authorName: reddraptor
+        authorEmail: sdmuir76@gmail.com
+        commitEmail: sdmuir76@gmail.com
+        commitName: reddraptor
+        summary: Revert "Initial commit"
+        description: "Revert \"Initial commit\"\r\n\r\nThis reverts commit b2bd337299ab49034119575bff6e96da17701eb7."
+        timeString: 2018-09-22T20:11:44.000-07:00
+        commitTimeString: 2018-09-22T20:11:44.000-07:00
+        changes:
+        - path: .gitattributes
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitattributes
+          projectPath: .gitattributes
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: .gitignore
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          status: 5
+          staged: 0
+        - path: Assets\.gitignore
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\.gitignore
+          projectPath: Assets\.gitignore
+          originalPath: 
+          status: 5
+          staged: 0
+      - commitID: f62c98c8e58289440dd46648dc0608d766861680
+        mergeA: 
+        mergeB: 
+        authorName: reddraptor
+        authorEmail: sdmuir76@gmail.com
+        commitEmail: sdmuir76@gmail.com
+        commitName: reddraptor
+        summary: Initial Commit
+        description: Initial Commit
+        timeString: 2018-09-22T20:08:09.000-07:00
+        commitTimeString: 2018-09-22T20:08:09.000-07:00
+        changes:
+        - path: Assets\Plugins.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins.meta
+          projectPath: Assets\Plugins.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub.meta
+          projectPath: Assets\Plugins\GitHub.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor.meta
+          projectPath: Assets\Plugins\GitHub\Editor.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+          projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+          projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\System.Threading.dll
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+          projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\credits.txt
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\credits.txt
+          projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\credits.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\eula.txt
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\eula.txt
+          projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\eula.txt.meta
+          projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.bundle
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.so
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\sfw.net.dll
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Scenes.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes.meta
+          projectPath: Assets\Scenes.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Scenes\SampleScene.unity
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\SampleScene.unity
+          projectPath: Assets\Scenes\SampleScene.unity
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\Scenes\SampleScene.unity.meta
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\SampleScene.unity.meta
+          projectPath: Assets\Scenes\SampleScene.unity.meta
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Packages\manifest.json
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Packages\manifest.json
+          projectPath: Packages\manifest.json
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\AudioManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\AudioManager.asset
+          projectPath: ProjectSettings\AudioManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ClusterInputManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\ClusterInputManager.asset
+          projectPath: ProjectSettings\ClusterInputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\DynamicsManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\DynamicsManager.asset
+          projectPath: ProjectSettings\DynamicsManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\EditorBuildSettings.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\EditorBuildSettings.asset
+          projectPath: ProjectSettings\EditorBuildSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\EditorSettings.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\EditorSettings.asset
+          projectPath: ProjectSettings\EditorSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\GraphicsSettings.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\GraphicsSettings.asset
+          projectPath: ProjectSettings\GraphicsSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\InputManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\InputManager.asset
+          projectPath: ProjectSettings\InputManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\NavMeshAreas.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\NavMeshAreas.asset
+          projectPath: ProjectSettings\NavMeshAreas.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\NetworkManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\NetworkManager.asset
+          projectPath: ProjectSettings\NetworkManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\Physics2DSettings.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\Physics2DSettings.asset
+          projectPath: ProjectSettings\Physics2DSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\PresetManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\PresetManager.asset
+          projectPath: ProjectSettings\PresetManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ProjectSettings.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\ProjectSettings.asset
+          projectPath: ProjectSettings\ProjectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\ProjectVersion.txt
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\ProjectVersion.txt
+          projectPath: ProjectSettings\ProjectVersion.txt
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\QualitySettings.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\QualitySettings.asset
+          projectPath: ProjectSettings\QualitySettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\TagManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\TagManager.asset
+          projectPath: ProjectSettings\TagManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\TimeManager.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\TimeManager.asset
+          projectPath: ProjectSettings\TimeManager.asset
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: ProjectSettings\UnityConnectSettings.asset
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\UnityConnectSettings.asset
+          projectPath: ProjectSettings\UnityConnectSettings.asset
+          originalPath: 
+          status: 4
+          staged: 0
+      - commitID: b2bd337299ab49034119575bff6e96da17701eb7
+        mergeA: 
+        mergeB: 
+        authorName: reddraptor
+        authorEmail: sdmuir76@gmail.com
+        commitEmail: sdmuir76@gmail.com
+        commitName: reddraptor
+        summary: Initial commit
+        description: Initial commit
+        timeString: 2018-09-22T20:05:06.000-07:00
+        commitTimeString: 2018-09-22T20:05:06.000-07:00
+        changes:
+        - path: .gitattributes
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitattributes
+          projectPath: .gitattributes
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: .gitignore
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+        - path: Assets\.gitignore
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\.gitignore
+          projectPath: Assets\.gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+      statusAhead: 0
+      selectedIndex: 2
+    selectedEntry:
+      commitID: b2bd337299ab49034119575bff6e96da17701eb7
+      mergeA: 
+      mergeB: 
+      authorName: reddraptor
+      authorEmail: sdmuir76@gmail.com
+      commitEmail: sdmuir76@gmail.com
+      commitName: reddraptor
+      summary: Initial commit
+      description: Initial commit
+      timeString: 2018-09-22T20:05:06.000-07:00
+      commitTimeString: 2018-09-22T20:05:06.000-07:00
+      changes:
+      - path: .gitattributes
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitattributes
+        projectPath: .gitattributes
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: .gitignore
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\.gitignore
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+    detailsScroll: {x: 0, y: 0}
+    logEntries:
+    - commitID: b738c39ee6039a311ed846783e3fc769b9f7a53e
+      mergeA: 
+      mergeB: 
+      authorName: reddraptor
+      authorEmail: sdmuir76@gmail.com
+      commitEmail: sdmuir76@gmail.com
+      commitName: reddraptor
+      summary: Revert "Initial commit"
+      description: "Revert \"Initial commit\"\r\n\r\nThis reverts commit b2bd337299ab49034119575bff6e96da17701eb7."
+      timeString: 2018-09-22T20:11:44.000-07:00
+      commitTimeString: 2018-09-22T20:11:44.000-07:00
+      changes:
+      - path: .gitattributes
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitattributes
+        projectPath: .gitattributes
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: .gitignore
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 5
+        staged: 0
+      - path: Assets\.gitignore
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        status: 5
+        staged: 0
+    - commitID: f62c98c8e58289440dd46648dc0608d766861680
+      mergeA: 
+      mergeB: 
+      authorName: reddraptor
+      authorEmail: sdmuir76@gmail.com
+      commitEmail: sdmuir76@gmail.com
+      commitName: reddraptor
+      summary: Initial Commit
+      description: Initial Commit
+      timeString: 2018-09-22T20:08:09.000-07:00
+      commitTimeString: 2018-09-22T20:08:09.000-07:00
+      changes:
+      - path: Assets\Plugins.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins.meta
+        projectPath: Assets\Plugins.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub.meta
+        projectPath: Assets\Plugins\GitHub.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor.meta
+        projectPath: Assets\Plugins\GitHub\Editor.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+        projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+        projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\System.Threading.dll
+        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+        projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\credits.txt
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\credits.txt
+        projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\credits.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\eula.txt
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\eula.txt
+        projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\eula.txt.meta
+        projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.bundle
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.so
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\sfw.net.dll
+        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Scenes.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes.meta
+        projectPath: Assets\Scenes.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Scenes\SampleScene.unity
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\SampleScene.unity
+        projectPath: Assets\Scenes\SampleScene.unity
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\Scenes\SampleScene.unity.meta
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\SampleScene.unity.meta
+        projectPath: Assets\Scenes\SampleScene.unity.meta
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Packages\manifest.json
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Packages\manifest.json
+        projectPath: Packages\manifest.json
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\AudioManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\AudioManager.asset
+        projectPath: ProjectSettings\AudioManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ClusterInputManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\ClusterInputManager.asset
+        projectPath: ProjectSettings\ClusterInputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\DynamicsManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\DynamicsManager.asset
+        projectPath: ProjectSettings\DynamicsManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorBuildSettings.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\EditorBuildSettings.asset
+        projectPath: ProjectSettings\EditorBuildSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\EditorSettings.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\EditorSettings.asset
+        projectPath: ProjectSettings\EditorSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\GraphicsSettings.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\GraphicsSettings.asset
+        projectPath: ProjectSettings\GraphicsSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\InputManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\InputManager.asset
+        projectPath: ProjectSettings\InputManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NavMeshAreas.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\NavMeshAreas.asset
+        projectPath: ProjectSettings\NavMeshAreas.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\NetworkManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\NetworkManager.asset
+        projectPath: ProjectSettings\NetworkManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\Physics2DSettings.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\Physics2DSettings.asset
+        projectPath: ProjectSettings\Physics2DSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\PresetManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\PresetManager.asset
+        projectPath: ProjectSettings\PresetManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectSettings.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\ProjectSettings.asset
+        projectPath: ProjectSettings\ProjectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\ProjectVersion.txt
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\ProjectVersion.txt
+        projectPath: ProjectSettings\ProjectVersion.txt
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\QualitySettings.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\QualitySettings.asset
+        projectPath: ProjectSettings\QualitySettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TagManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\TagManager.asset
+        projectPath: ProjectSettings\TagManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\TimeManager.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\TimeManager.asset
+        projectPath: ProjectSettings\TimeManager.asset
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: ProjectSettings\UnityConnectSettings.asset
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\ProjectSettings\UnityConnectSettings.asset
+        projectPath: ProjectSettings\UnityConnectSettings.asset
+        originalPath: 
+        status: 4
+        staged: 0
+    - commitID: b2bd337299ab49034119575bff6e96da17701eb7
+      mergeA: 
+      mergeB: 
+      authorName: reddraptor
+      authorEmail: sdmuir76@gmail.com
+      commitEmail: sdmuir76@gmail.com
+      commitName: reddraptor
+      summary: Initial commit
+      description: Initial commit
+      timeString: 2018-09-22T20:05:06.000-07:00
+      commitTimeString: 2018-09-22T20:05:06.000-07:00
+      changes:
+      - path: .gitattributes
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitattributes
+        projectPath: .gitattributes
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: .gitignore
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitignore
+        projectPath: .gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+      - path: Assets\.gitignore
+        fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\.gitignore
+        projectPath: Assets\.gitignore
+        originalPath: 
+        status: 4
+        staged: 0
+    statusAhead: 0
+    treeChanges:
+      assets:
+        keys: []
+        values: []
+      folders:
+        keys:
+        - Assets
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            status: 0
+            staged: 0
+      checkedFileNodes:
+        keys: []
+        values: []
+      title: 
+      pathSeparator: \
+      displayRootNode: 0
+      isSelectable: 0
+      isCheckable: 0
+      isUsingGlobalSelection: 0
+      nodes:
+      - path: 
+        label: 
+        level: -1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: .gitattributes
+        label: .gitattributes
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .gitattributes
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitattributes
+          projectPath: .gitattributes
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: .gitignore
+        label: .gitignore
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .gitignore
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.gitignore
+          projectPath: .gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+      - path: Assets\.gitignore
+        label: .gitignore
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets\.gitignore
+          fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\.gitignore
+          projectPath: Assets\.gitignore
+          originalPath: 
+          status: 4
+          staged: 0
+      selectedNode:
+        path: 
+        label: 
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          status: 0
+          staged: 0
+    lastLogChangedEvent:
+      updatedTimeString: 2018-09-26T19:49:38.129-07:00
+      cacheType: 3
+    lastTrackingStatusChangedEvent:
+      updatedTimeString: 2018-09-26T19:49:38.031-07:00
+      cacheType: 4
+  settingsView:
+    gitPathView:
+      gitPath: E:\Program Files\Git\cmd\git.exe
+      gitLfsPath: C:\Users\sdmui\AppData\Local\GitHubUnity\git-lfs\git-lfs.exe
+      errorMessage: 
+      resetToBundled: 0
+      resetToSystem: 0
+      changingManually: 1
+    hasRemote: 1
+    lastCurrentRemoteChangedEvent:
+      updatedTimeString: 2018-09-23T09:54:15.980-07:00
+      cacheType: 1
+    metricsEnabled: 1
+    newRepositoryRemoteUrl: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+    repositoryRemoteName: origin
+    repositoryRemoteUrl: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+    scroll: {x: 0, y: 0}
+    userSettingsView:
+      gitName: reddraptor
+      gitEmail: sdmuir76@gmail.com
+      newGitName: reddraptor
+      newGitEmail: sdmuir76@gmail.com
+      needsSaving: 0
+      lastCheckUserChangedEvent:
+        updatedTimeString: 0001-01-01T00:00:00.000+00:00
+        cacheType: 7
+    webTimeout: 3000
+    gitTimeout: 5000
+  locksView:
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
+    currentUserHasUpdate: 0
+    locksControl:
+      scroll: {x: 0, y: 0}
+      gitLockEntries: []
+      assets:
+        keys: []
+        values: []
+      gitStatusDictionary:
+        keys: []
+        values: []
+      selectedEntry:
+        gitLock:
+          id: 
+          path: 
+          owner:
+            name: 
+            email: 
+          lockedAtString: 
+        gitFileStatus: 0
+        lockedAt: 1 Jan 0001, 00:00
+    lastLocksChangedEvent:
+      updatedTimeString: 2018-09-23T20:43:29.245-07:00
+      cacheType: 6
+    lastStatusEntriesChangedEvent:
+      updatedTimeString: 2018-09-23T20:43:29.245-07:00
+      cacheType: 6
+    lastUserChangedEvent:
+      updatedTimeString: 2018-09-23T20:43:39.303-07:00
+      cacheType: 7
+    lockedFiles: []
+    gitStatusEntries: []
+    currentUsername: reddraptor
+    unlockFileMenuContent:
+      m_Text: Release Lock
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+    forceUnlockFileMenuContent:
+      m_Text: Release Lock (forced)
+      m_Image: {fileID: 0}
+      m_Tooltip: 
+  hasRemote: 1
+  currentRemoteName: origin
+  currentBranch: master
+  currentRemoteUrl: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+  statusAhead: 0
+  statusBehind: 0
+  hasItemsToCommit: 0
+  isTrackingRemoteBranch: 1
+  currentBranchContent:
+    m_Text: master
+    m_Image: {fileID: 0}
+    m_Tooltip: Active branch
+  currentRemoteUrlContent:
+    m_Text: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+    m_Image: {fileID: 0}
+    m_Tooltip: Url of the origin remote
+  lastCurrentBranchAndRemoteChangedEvent:
+    updatedTimeString: 2018-09-26T19:49:52.709-07:00
+    cacheType: 1
+  lastTrackingStatusChangedEvent:
+    updatedTimeString: 2018-09-26T19:49:38.031-07:00
+    cacheType: 4
+  lastStatusEntriesChangedEvent:
+    updatedTimeString: 2018-09-26T19:49:53.617-07:00
+    cacheType: 5
+  pullButtonContent:
+    m_Text: Pull
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  pushButtonContent:
+    m_Text: Push
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  refreshButtonContent:
+    m_Text: Refresh
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  fetchButtonContent:
+    m_Text: Fetch
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
+  appManagerProgressValue: 1
+  appManagerProgressMessage: Initialized
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 730
+    width: 457
+    height: 365
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 2}
+  m_Panes:
+  - {fileID: 2}
+  m_Selected: 0
+  m_LastSelected: 0
