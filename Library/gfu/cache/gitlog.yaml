@@ -12,9 +12,100 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-09-26T20:36:58.901-07:00
+  lastUpdatedAtString: 2018-09-26T20:59:16.139-07:00
   initializedAtString: 2018-09-26T20:36:58.901-07:00
   log:
+  - commitID: 5ba3dafb13859d19cb0252af585417d4e0ac8a12
+    mergeA: 
+    mergeB: 
+    authorName: reddraptor
+    authorEmail: sdmuir76@gmail.com
+    commitEmail: sdmuir76@gmail.com
+    commitName: reddraptor
+    summary: Github Unity fix
+    description: "Github Unity fix\r\n\r\nY U NO COMMIT"
+    timeString: 2018-09-26T20:52:01.000-07:00
+    commitTimeString: 2018-09-26T20:52:01.000-07:00
+    changes:
+    - path: Assets\Scenes\Character Development.unity
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
+        Development.unity
+      projectPath: Assets\Scenes\Character Development.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\EditorInstance.json
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: error.log
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\error.log
+      projectPath: error.log
+      originalPath: 
+      status: 5
+      staged: 0
   - commitID: 7fb71d5c340b6698ba201d9b2849293290ad3884
     mergeA: 
     mergeB: 
