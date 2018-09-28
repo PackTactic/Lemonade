@@ -38,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1662098326408936}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15575254, y: -0.43160397, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -63,7 +63,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &58468470271839230
 CircleCollider2D:
   m_ObjectHideFlags: 1
@@ -73,7 +73,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 2, y: 0}
@@ -95,6 +95,8 @@ MonoBehaviour:
   isFlying: 0
   startPosition: {x: 0, y: 0}
   range: 0
+  hitParticules: {fileID: 198890434458939176, guid: 607edc10fa2671843bf48608e4b43dd2,
+    type: 2}
 --- !u!114 &114698725118174274
 MonoBehaviour:
   m_ObjectHideFlags: 1

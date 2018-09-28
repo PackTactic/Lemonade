@@ -9,6 +9,7 @@ public class BulletController : MonoBehaviour {
     public bool isFlying = false;
     public Vector2 startPosition = Vector2.zero;
     public float range;
+    public ParticleSystem hitParticules;
 
 	// Use this for initialization
 	void Start () {
@@ -23,19 +24,12 @@ public class BulletController : MonoBehaviour {
 
             if ((position - startPosition).sqrMagnitude > Mathf.Pow(range, 2))
             {
-                gameObject.SetActive(false);
-                Destroy(gameObject);
+                Remove();
             }
             else
                 movementController.Move(directionVector);
         }
 	}
-
-    private void OnTriggerEnter(Collider other)
-    {
-        gameObject.SetActive(false);
-        Destroy(gameObject);
-    }
 
     public void Fly(Vector2 directionVector, float range)
     {
@@ -46,5 +40,17 @@ public class BulletController : MonoBehaviour {
         movementController.Move(directionVector);
         isFlying = true;
         startPosition = transform.position;
+    }
+
+    public void Remove()
+    {
+        gameObject.SetActive(false);
+        Destroy(gameObject);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Instantiate(hitParticules, collision.GetContact(0).point, Quaternion.identity);
+        Remove();
     }
 }
