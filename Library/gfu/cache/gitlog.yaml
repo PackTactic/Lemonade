@@ -12,9 +12,187 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-09-26T21:00:45.476-07:00
-  initializedAtString: 2018-09-26T20:36:58.901-07:00
+  lastUpdatedAtString: 2018-09-27T21:51:14.646-07:00
+  initializedAtString: 2018-09-27T21:50:59.722-07:00
   log:
+  - commitID: e64cc9c8dae16f0a1cdb2c04dbbe7f1356fba26f
+    mergeA: 
+    mergeB: 
+    authorName: reddraptor
+    authorEmail: sdmuir76@gmail.com
+    commitEmail: sdmuir76@gmail.com
+    commitName: reddraptor
+    summary: Projectile Collisions
+    description: "Projectile Collisions\r\n\r\nProjectiles are removed on collisions
+      and a spash particule effect is created at the collision point."
+    timeString: 2018-09-27T21:50:58.000-07:00
+    commitTimeString: 2018-09-27T21:50:58.000-07:00
+    changes:
+    - path: .vs\Lemonade\v15\.suo
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\.suo
+      projectPath: .vs\Lemonade\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\Projectiles\Bullet.prefab
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Prefabs\Projectiles\Bullet.prefab
+      projectPath: Assets\Prefabs\Projectiles\Bullet.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Prefabs\Projectiles\Hit Particules.prefab
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Prefabs\Projectiles\Hit
+        Particules.prefab
+      projectPath: Assets\Prefabs\Projectiles\Hit Particules.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Projectiles\Hit Particules.prefab.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Prefabs\Projectiles\Hit
+        Particules.prefab.meta
+      projectPath: Assets\Prefabs\Projectiles\Hit Particules.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Character Development.unity
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
+        Development.unity
+      projectPath: Assets\Scenes\Character Development.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\BulletController.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\BulletController.cs
+      projectPath: Assets\Scripts\BulletController.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\EditorInstance.json
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
+      projectPath: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
+      projectPath: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581
+      projectPath: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581.info
+      projectPath: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 5173e95fbe3d5461e671ac73406f8459d61fba1e
     mergeA: 
     mergeB: 

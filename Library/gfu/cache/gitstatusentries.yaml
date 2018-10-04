@@ -12,65 +12,150 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-09-27T21:47:32.486-07:00
-  initializedAtString: 2018-09-27T21:47:31.572-07:00
+  lastUpdatedAtString: 2018-10-03T19:23:59.645-07:00
+  initializedAtString: 2018-10-03T19:14:25.504-07:00
   entries:
-  - path: .vs\Lemonade\v15\.suo
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\.suo
-    projectPath: .vs\Lemonade\v15\.suo
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide
-    projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Prefabs\Projectiles\Bullet.prefab
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Prefabs\Projectiles\Bullet.prefab
-    projectPath: Assets\Prefabs\Projectiles\Bullet.prefab
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Prefabs\Projectiles\Hit Particules.prefab
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Prefabs\Projectiles\Hit
-      Particules.prefab
-    projectPath: Assets\Prefabs\Projectiles\Hit Particules.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\Projectiles\Hit Particules.prefab.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Prefabs\Projectiles\Hit
-      Particules.prefab.meta
-    projectPath: Assets\Prefabs\Projectiles\Hit Particules.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Assets\Scenes\Character Development.unity
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
       Development.unity
     projectPath: Assets\Scenes\Character Development.unity
     originalPath: 
-    status: 3
+    status: 5
     staged: 0
-  - path: Assets\Scripts\BulletController.cs
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\BulletController.cs
-    projectPath: Assets\Scripts\BulletController.cs
+  - path: Assets\Scenes\Character Development.unity.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
+      Development.unity.meta
+    projectPath: Assets\Scenes\Character Development.unity.meta
     originalPath: 
-    status: 3
+    status: 5
+    staged: 0
+  - path: Assets\Scenes\Character Prototyping.unity
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
+      Prototyping.unity
+    projectPath: Assets\Scenes\Character Prototyping.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Character Prototyping.unity.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
+      Prototyping.unity.meta
+    projectPath: Assets\Scenes\Character Prototyping.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Map Prototyping.unity
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Map Prototyping.unity
+    projectPath: Assets\Scenes\Map Prototyping.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Map Prototyping.unity.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Map Prototyping.unity.meta
+    projectPath: Assets\Scenes\Map Prototyping.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Map Sprites.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Sprites\Map Sprites.meta
+    projectPath: Assets\Sprites\Map Sprites.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Map Sprites\tile_grass.png
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Sprites\Map Sprites\tile_grass.png
+    projectPath: Assets\Sprites\Map Sprites\tile_grass.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Map Sprites\tile_grass.png.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Sprites\Map Sprites\tile_grass.png.meta
+    projectPath: Assets\Sprites\Map Sprites\tile_grass.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Map Sprites\tile_stones.png
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Sprites\Map Sprites\tile_stones.png
+    projectPath: Assets\Sprites\Map Sprites\tile_stones.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Map Sprites\tile_stones.png.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Sprites\Map Sprites\tile_stones.png.meta
+    projectPath: Assets\Sprites\Map Sprites\tile_stones.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Map Sprites\tile_water.png
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Sprites\Map Sprites\tile_water.png
+    projectPath: Assets\Sprites\Map Sprites\tile_water.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Map Sprites\tile_water.png.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Sprites\Map Sprites\tile_water.png.meta
+    projectPath: Assets\Sprites\Map Sprites\tile_water.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tile Palettes.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Palettes.meta
+    projectPath: Assets\Tile Palettes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tile Palettes\Prototype.prefab
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Palettes\Prototype.prefab
+    projectPath: Assets\Tile Palettes\Prototype.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tile Palettes\Prototype.prefab.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Palettes\Prototype.prefab.meta
+    projectPath: Assets\Tile Palettes\Prototype.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tiles.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tiles.meta
+    projectPath: Assets\Tiles.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tiles\tile_grass.asset
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tiles\tile_grass.asset
+    projectPath: Assets\Tiles\tile_grass.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tiles\tile_grass.asset.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tiles\tile_grass.asset.meta
+    projectPath: Assets\Tiles\tile_grass.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tiles\tile_stones.asset
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tiles\tile_stones.asset
+    projectPath: Assets\Tiles\tile_stones.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tiles\tile_stones.asset.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tiles\tile_stones.asset.meta
+    projectPath: Assets\Tiles\tile_stones.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tiles\tile_water.asset
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tiles\tile_water.asset
+    projectPath: Assets\Tiles\tile_water.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Tiles\tile_water.asset.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tiles\tile_water.asset.meta
+    projectPath: Assets\Tiles\tile_water.asset.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library\assetDatabase3
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\assetDatabase3
@@ -138,45 +223,33 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
-    projectPath: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
-    projectPath: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
+  - path: Library\metadata\f0\f01e44f66b0880346a554c177bfb8ef7
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\f0\f01e44f66b0880346a554c177bfb8ef7
+    projectPath: Library\metadata\f0\f01e44f66b0880346a554c177bfb8ef7
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581
-    projectPath: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581.info
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581.info
-    projectPath: Library\metadata\77\77fe527c03e38bc4c8a23a8f13936581.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+  - path: Library\metadata\f0\f01e44f66b0880346a554c177bfb8ef7.info
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\f0\f01e44f66b0880346a554c177bfb8ef7.info
+    projectPath: Library\metadata\f0\f01e44f66b0880346a554c177bfb8ef7.info
     originalPath: 
     status: 3
     staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\TilemapEditorUserSettings.asset
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\TilemapEditorUserSettings.asset
+    projectPath: Library\TilemapEditorUserSettings.asset
     originalPath: 
     status: 3
     staged: 0
