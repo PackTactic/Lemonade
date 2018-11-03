@@ -12,9 +12,370 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-11-03T12:16:53.177-07:00
+  lastUpdatedAtString: 2018-11-03T14:56:24.823-07:00
   initializedAtString: 2018-11-03T12:14:59.742-07:00
   log:
+  - commitID: e0eca78fddaadb6ceb64639fdd0df1b6bc20ed6f
+    mergeA: 
+    mergeB: 
+    authorName: reddraptor
+    authorEmail: sdmuir76@gmail.com
+    commitEmail: sdmuir76@gmail.com
+    commitName: reddraptor
+    summary: Start of map script implementation
+    description: "Start of map script implementation\r\n\r\nMoved entity controlling
+      scripts to own directory.\r\nMap component scripts in own directory and namespace"
+    timeString: 2018-11-03T13:54:47.000-07:00
+    commitTimeString: 2018-11-03T13:54:47.000-07:00
+    changes:
+    - path: .vs\Lemonade\v15\.suo
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\.suo
+      projectPath: .vs\Lemonade\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Map Prototyping.unity
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Map Prototyping.unity
+      projectPath: Assets\Scenes\Map Prototyping.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\EntityControllers.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers.meta
+      projectPath: Assets\Scripts\EntityControllers.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\AimController.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\AimController.cs
+      projectPath: Assets\Scripts\EntityControllers\AimController.cs
+      originalPath: Assets\Scripts\AimController.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\AimController.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\AimController.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\AimController.cs.meta
+      originalPath: Assets\Scripts\AimController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\BulletController.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\BulletController.cs
+      projectPath: Assets\Scripts\EntityControllers\BulletController.cs
+      originalPath: Assets\Scripts\BulletController.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\BulletController.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\BulletController.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\BulletController.cs.meta
+      originalPath: Assets\Scripts\BulletController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\GunController.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\GunController.cs
+      projectPath: Assets\Scripts\EntityControllers\GunController.cs
+      originalPath: Assets\Scripts\GunController.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\GunController.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\GunController.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\GunController.cs.meta
+      originalPath: Assets\Scripts\GunController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\InputListener.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\InputListener.cs
+      projectPath: Assets\Scripts\EntityControllers\InputListener.cs
+      originalPath: Assets\Scripts\InputListener.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\InputListener.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\InputListener.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\InputListener.cs.meta
+      originalPath: Assets\Scripts\InputListener.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\MovementController.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\MovementController.cs
+      projectPath: Assets\Scripts\EntityControllers\MovementController.cs
+      originalPath: Assets\Scripts\MovementController.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\MovementController.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\MovementController.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\MovementController.cs.meta
+      originalPath: Assets\Scripts\MovementController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\MovementController2.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\MovementController2.cs
+      projectPath: Assets\Scripts\EntityControllers\MovementController2.cs
+      originalPath: Assets\Scripts\MovementController2.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\MovementController2.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\MovementController2.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\MovementController2.cs.meta
+      originalPath: Assets\Scripts\MovementController2.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\PositionController.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\PositionController.cs
+      projectPath: Assets\Scripts\EntityControllers\PositionController.cs
+      originalPath: Assets\Scripts\PositionController.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\PositionController.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\PositionController.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\PositionController.cs.meta
+      originalPath: Assets\Scripts\PositionController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\SpriteController.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\SpriteController.cs
+      projectPath: Assets\Scripts\EntityControllers\SpriteController.cs
+      originalPath: Assets\Scripts\SpriteController.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\SpriteController.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\SpriteController.cs.meta
+      projectPath: Assets\Scripts\EntityControllers\SpriteController.cs.meta
+      originalPath: Assets\Scripts\SpriteController.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\MapComponents.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents.meta
+      projectPath: Assets\Scripts\MapComponents.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\MapComponents\LevelMap.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\LevelMap.cs
+      projectPath: Assets\Scripts\MapComponents\LevelMap.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\MapComponents\LevelMap.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\LevelMap.cs.meta
+      projectPath: Assets\Scripts\MapComponents\LevelMap.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\MapComponents\MapComponentSet.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\MapComponentSet.cs
+      projectPath: Assets\Scripts\MapComponents\MapComponentSet.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\MapComponents\MapComponentSet.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\MapComponentSet.cs.meta
+      projectPath: Assets\Scripts\MapComponents\MapComponentSet.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\14\14e6423a46721aa4882b011c452c9026
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\14\14e6423a46721aa4882b011c452c9026
+      projectPath: Library\metadata\14\14e6423a46721aa4882b011c452c9026
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\14\14e6423a46721aa4882b011c452c9026.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\14\14e6423a46721aa4882b011c452c9026.info
+      projectPath: Library\metadata\14\14e6423a46721aa4882b011c452c9026.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
+      projectPath: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
+      projectPath: Library\metadata\72\72c8e361cfc03f64c91b1ab518c6123c.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\7a\7ab83f32b2c9e374eb3ae6fef523f50c
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\7a\7ab83f32b2c9e374eb3ae6fef523f50c
+      projectPath: Library\metadata\7a\7ab83f32b2c9e374eb3ae6fef523f50c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\7a\7ab83f32b2c9e374eb3ae6fef523f50c.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\7a\7ab83f32b2c9e374eb3ae6fef523f50c.info
+      projectPath: Library\metadata\7a\7ab83f32b2c9e374eb3ae6fef523f50c.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\7c\7c4d8389561553c45a5c679f3f46e56c
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\7c\7c4d8389561553c45a5c679f3f46e56c
+      projectPath: Library\metadata\7c\7c4d8389561553c45a5c679f3f46e56c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\7c\7c4d8389561553c45a5c679f3f46e56c.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\7c\7c4d8389561553c45a5c679f3f46e56c.info
+      projectPath: Library\metadata\7c\7c4d8389561553c45a5c679f3f46e56c.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\a7\a787bc48bfa39dc4986d3c90da0007d3
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\a7\a787bc48bfa39dc4986d3c90da0007d3
+      projectPath: Library\metadata\a7\a787bc48bfa39dc4986d3c90da0007d3
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\a7\a787bc48bfa39dc4986d3c90da0007d3.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\a7\a787bc48bfa39dc4986d3c90da0007d3.info
+      projectPath: Library\metadata\a7\a787bc48bfa39dc4986d3c90da0007d3.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\e1\e17706dc8218b32428a88b1e9650a791
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\e1\e17706dc8218b32428a88b1e9650a791
+      projectPath: Library\metadata\e1\e17706dc8218b32428a88b1e9650a791
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\e1\e17706dc8218b32428a88b1e9650a791.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\e1\e17706dc8218b32428a88b1e9650a791.info
+      projectPath: Library\metadata\e1\e17706dc8218b32428a88b1e9650a791.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\f4\f4f7e166de1cb0840b186788e2b315c0
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\f4\f4f7e166de1cb0840b186788e2b315c0
+      projectPath: Library\metadata\f4\f4f7e166de1cb0840b186788e2b315c0
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\f4\f4f7e166de1cb0840b186788e2b315c0.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\f4\f4f7e166de1cb0840b186788e2b315c0.info
+      projectPath: Library\metadata\f4\f4f7e166de1cb0840b186788e2b315c0.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\f8\f8e8e3ac1ba8f9f4cae90241c1375725
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\f8\f8e8e3ac1ba8f9f4cae90241c1375725
+      projectPath: Library\metadata\f8\f8e8e3ac1ba8f9f4cae90241c1375725
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\f8\f8e8e3ac1ba8f9f4cae90241c1375725.info
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\metadata\f8\f8e8e3ac1ba8f9f4cae90241c1375725.info
+      projectPath: Library\metadata\f8\f8e8e3ac1ba8f9f4cae90241c1375725.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 3329206ba3e1feb52ecb73f2041080dd3ec51d24
     mergeA: 
     mergeB: 

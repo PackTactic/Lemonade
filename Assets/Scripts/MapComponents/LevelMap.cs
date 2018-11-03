@@ -10,6 +10,8 @@ namespace MapComponents
         public int width = 0;
         public int height = 0;
         public int mapComponentTileSize = 6;
+        public MapSet mapSet;
+        
 
         public enum MapComponent { Empty = 0, Corridor = 1, Room = 2, Door = 3 }
 

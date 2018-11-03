@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de881ab3703c65442b49a25cbf689557, type: 3}
+  m_Name: protoype
+  m_EditorClassIdentifier: 
+  doorUpDown: {fileID: 1390463967487896, guid: c075035aa301baf448986df355560d0b, type: 2}
+  doorLeftRight: {fileID: 1011071117259280, guid: 7afb893574f329e4ebcb6366d447209e,
+    type: 2}
+  corridorTurnUpLeft: {fileID: 1417175305101694, guid: 8cca69a48d7fe3c4083b7a5052ccf40f,
+    type: 2}
+  corridorTurnUpRight: {fileID: 1171183804626516, guid: 26083212b937dfa40aa32cd85ee077d0,
+    type: 2}
+  corridorTurnDownLeft: {fileID: 1772492088573078, guid: c08c14ae22cee604999584637328f0f9,
+    type: 2}
+  corridorTurnDownRight: {fileID: 1233210273040300, guid: 5702cacb990b609438bfcb9f31c3ca30,
+    type: 2}
+  cooridorStraightLeftRight: {fileID: 1972895115145198, guid: c431949bc67055945a3c5c734064ff58,
+    type: 2}
+  corridorStraightUpDown: {fileID: 1966629955793724, guid: 5524a151da139eb439ced9dcf4dacbfc,
+    type: 2}
+  cooridor4Way: {fileID: 1332716657528074, guid: 2138c0553e48e2b4f83da29c74de875f,
+    type: 2}
+  startRoom: {fileID: 1323119811895726, guid: 37829e2efaab0e54980976c244c9c572, type: 2}
+  endRoom: {fileID: 1552993456759392, guid: 9c655634506f07f488d8dba565a5843b, type: 2}
+  rooms: []

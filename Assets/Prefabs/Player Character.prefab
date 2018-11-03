@@ -104,12 +104,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1795678440165708}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4f7e166de1cb0840b186788e2b315c0, type: 3}
+  m_Script: {fileID: 11500000, guid: 1c91f88f74a83a446a50a044e097c6d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  frontSprite: {fileID: 21300000, guid: 7ce284b6240dec340ad50a99fe0806b2, type: 3}
-  sideSprite: {fileID: 21300000, guid: c4a76d7f3e3e27241b3df737c5fd6acf, type: 3}
-  rearSprite: {fileID: 21300000, guid: a1e7ba834b171264b9d6d0e45efdc763, type: 3}
+  frontSprite: {fileID: 0}
+  sideSprite: {fileID: 0}
+  rearSprite: {fileID: 0}
   spriteRender: {fileID: 0}
 --- !u!114 &114721181950633740
 MonoBehaviour:
@@ -119,15 +119,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1795678440165708}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c4d8389561553c45a5c679f3f46e56c, type: 3}
+  m_Script: {fileID: 11500000, guid: b1bc1b042b1763445a241b017d7599eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aimController: {fileID: 114149130357202260}
-  projectilePrefab: {fileID: 1662098326408936, guid: 77fe527c03e38bc4c8a23a8f13936581,
-    type: 2}
-  range: 10
-  rateOfFire: 1.17
-  coolDownTime: 0
+  moveSpeed: 10
+  directionVector: {x: 0, y: 0}
 --- !u!114 &114902129987826850
 MonoBehaviour:
   m_ObjectHideFlags: 1
