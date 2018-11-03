@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-11-03T12:13:41.012-07:00
+  lastUpdatedAtString: 2018-11-03T12:16:53.058-07:00
   initializedAtString: 2018-11-03T12:13:41.012-07:00
   currentGitRemote:
     name: origin
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
-  currentHead: f4d46bf
+  currentHead: 
