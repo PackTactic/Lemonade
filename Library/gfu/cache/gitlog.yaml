@@ -13,9 +13,156 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-05-25T09:26:28.181-07:00
-  initializedAtString: 2019-05-25T09:06:37.566-07:00
+  lastUpdatedAtString: 2019-05-25T11:04:23.062-07:00
+  initializedAtString: 2019-05-25T11:04:23.062-07:00
   log:
+  - commitID: 33e4bc7af1c2b66ab821473295f95194678edc24
+    mergeA: 
+    mergeB: 
+    authorName: reddraptor
+    authorEmail: sdmuir76@gmail.com
+    commitEmail: sdmuir76@gmail.com
+    commitName: reddraptor
+    summary: 'Git for Unity Fix Attempt #2'
+    description: "Git for Unity Fix Attempt #2\r\n\r\nGit for Unity still not detecting
+      file changes in the UI. Commiting for possible fix mentioned in from GitHub
+      for Unity issue#871"
+    timeString: 2019-05-25T09:41:16.000-07:00
+    commitTimeString: 2019-05-25T09:41:16.000-07:00
+    changes:
+    - path: .vs\Lemonade\v15\.suo
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\.suo
+      projectPath: .vs\Lemonade\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Player.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Player.cs
+      projectPath: Assets\Player.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Player.cs.meta
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Player.cs.meta
+      projectPath: Assets\Player.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Character Prototyping.unity
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
+        Prototyping.unity
+      projectPath: Assets\Scenes\Character Prototyping.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\EntityControllers\PlayerEntity.cs
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\PlayerEntity.cs
+      projectPath: Assets\Scripts\EntityControllers\PlayerEntity.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\EditorInstance.json
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\expandedItems
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: be674be0162176c41c360dc6a6bf03b16931fbc5
     mergeA: 
     mergeB: 
@@ -24,8 +171,8 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Tracking down problem with Git/Git for Unity
-    description: Git for Unity not detecting changes to files. Attempting to commit
-      through Git Gui.
+    description: "Tracking down problem with Git/Git for Unity\r\n\r\nGit for Unity
+      not detecting changes to files. Attempting to commit through Git Gui."
     timeString: 2019-05-24T22:34:15.000-07:00
     commitTimeString: 2019-05-24T22:34:15.000-07:00
     changes:
@@ -5336,7 +5483,7 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: LevelMap Component
-    description: Basic attributes for the map of a level
+    description: "LevelMap Component\r\n\r\nBasic attributes for the map of a level"
     timeString: 2018-11-03T14:57:21.000-07:00
     commitTimeString: 2018-11-03T14:57:21.000-07:00
     changes:
@@ -5541,8 +5688,8 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Start of map script implementation
-    description: "Moved entity controlling scripts to own directory.\r\nMap component
-      scripts in own directory and namespace"
+    description: "Start of map script implementation\r\n\r\nMoved entity controlling
+      scripts to own directory.\r\nMap component scripts in own directory and namespace"
     timeString: 2018-11-03T13:54:47.000-07:00
     commitTimeString: 2018-11-03T13:54:47.000-07:00
     changes:
@@ -5902,7 +6049,7 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Corridor prototypes added
-    description: Corridor prototypes added
+    description: "Corridor prototypes added\r\n\r\nCorridor prototypes added"
     timeString: 2018-11-03T12:16:29.000-07:00
     commitTimeString: 2018-11-03T12:16:29.000-07:00
     changes:
@@ -6570,8 +6717,8 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Map prototyping
-    description: Setting up directories for tile sprites an palettes. Setup scene
-      for tile pmap prototyping
+    description: "Map prototyping\r\n\r\nSetting up directories for tile sprites an
+      palettes. Setup scene for tile pmap prototyping"
     timeString: 2018-10-03T19:25:36.000-07:00
     commitTimeString: 2018-10-03T19:25:36.000-07:00
     changes:
@@ -6807,8 +6954,8 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Projectile Collisions
-    description: Projectiles are removed on collisions and a spash particule effect
-      is created at the collision point.
+    description: "Projectile Collisions\r\n\r\nProjectiles are removed on collisions
+      and a spash particule effect is created at the collision point."
     timeString: 2018-09-27T21:50:58.000-07:00
     commitTimeString: 2018-09-27T21:50:58.000-07:00
     changes:
@@ -6985,7 +7132,8 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Added .gitignore and .gitattributes
-    description: No more problems with Unitylock file
+    description: "Added .gitignore and .gitattributes\r\n\r\nNo more problems with
+      Unitylock file"
     timeString: 2018-09-26T21:00:18.000-07:00
     commitTimeString: 2018-09-26T21:00:18.000-07:00
     changes:
@@ -7051,7 +7199,7 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Github Unity fix
-    description: Y U NO COMMIT
+    description: "Github Unity fix\r\n\r\nY U NO COMMIT"
     timeString: 2018-09-26T20:52:01.000-07:00
     commitTimeString: 2018-09-26T20:52:01.000-07:00
     changes:
@@ -7142,8 +7290,8 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Character prototyping
-    description: Basic movement, aiming and fire inputs setup. Prototype bullet also
-      created.
+    description: "Character prototyping\r\n\r\nBasic movement, aiming and fire inputs
+      setup. Prototype bullet also created."
     timeString: 2018-09-26T20:16:28.000-07:00
     commitTimeString: 2018-09-26T20:16:28.000-07:00
     changes:
@@ -14893,7 +15041,7 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Revert "Initial commit"
-    description: This reverts commit b2bd337299ab49034119575bff6e96da17701eb7.
+    description: "Revert \"Initial commit\"\r\n\r\nThis reverts commit b2bd337299ab49034119575bff6e96da17701eb7."
     timeString: 2018-09-22T20:11:44.000-07:00
     commitTimeString: 2018-09-22T20:11:44.000-07:00
     changes:
@@ -14923,7 +15071,7 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Initial Commit
-    description: 
+    description: Initial Commit
     timeString: 2018-09-22T20:08:09.000-07:00
     commitTimeString: 2018-09-22T20:08:09.000-07:00
     changes:
@@ -15415,7 +15563,7 @@ MonoBehaviour:
     commitEmail: sdmuir76@gmail.com
     commitName: reddraptor
     summary: Initial commit
-    description: 
+    description: Initial commit
     timeString: 2018-09-22T20:05:06.000-07:00
     commitTimeString: 2018-09-22T20:05:06.000-07:00
     changes:

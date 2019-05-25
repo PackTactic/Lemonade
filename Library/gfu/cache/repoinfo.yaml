@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-05-25T09:37:22.295-07:00
-  initializedAtString: 2019-05-25T09:06:26.428-07:00
+  lastUpdatedAtString: 2019-05-25T11:04:40.323-07:00
+  initializedAtString: 2019-05-25T11:04:15.843-07:00
   currentGitRemote:
     name: origin
     url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: PlayerDependenciesFix
-    tracking: 
+    tracking: origin/PlayerDependenciesFix
   currentConfigBranch:
     name: PlayerDependenciesFix
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+    trackingBranch: PlayerDependenciesFix
   currentConfigRemote:
     name: origin
     url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
