@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\AimController.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\BulletController.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\GunController.cs" />
