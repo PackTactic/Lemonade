@@ -13,15 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-05-25T12:38:33.063-07:00
+  lastUpdatedAtString: 2019-05-25T12:41:42.726-07:00
   initializedAtString: 2019-05-25T12:37:59.585-07:00
   entries:
-  - path: Library\CurrentLayout.dwlt
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -34,17 +28,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\repoinfo.yaml
