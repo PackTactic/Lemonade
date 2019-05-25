@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Obsolete("MovementController is obsolete. Use MovementController2 instead.")]
 public class MovementController : MonoBehaviour {
 
     public float rotationSpeed = 100;

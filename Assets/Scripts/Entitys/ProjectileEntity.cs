@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[System.Obsolete("BulletController is obsolete. Use a ProjectileEntity instead.")]
-public class BulletController : MonoBehaviour {
+[RequireComponent(typeof(MovementController2))]
+public class ProjectileEntity : MonoBehaviour {
 
     public MovementController2 movementController;
     public Vector2 directionVector;
@@ -14,6 +14,7 @@ public class BulletController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        movementController = GetComponent<MovementController2>();
 	}
 	
 	// Update is called once per frame

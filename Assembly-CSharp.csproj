@@ -69,9 +69,12 @@
     <Compile Include="Assets\Scripts\EntityControllers\InputListener.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\MovementController.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\MovementController2.cs" />
-    <Compile Include="Assets\Scripts\EntityControllers\PlayerEntity.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\PositionController.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\SpriteController.cs" />
+    <Compile Include="Assets\Scripts\Entitys\GunEntity.cs" />
+    <Compile Include="Assets\Scripts\Entitys\PlayerEntity.cs" />
+    <Compile Include="Assets\Scripts\Entitys\ProjectileEntity.cs" />
+    <Compile Include="Assets\Scripts\Entitys\ReticuleEntity.cs" />
     <Compile Include="Assets\Scripts\MapComponents\LevelMap.cs" />
     <Compile Include="Assets\Scripts\MapComponents\MapSet.cs" />
     <Reference Include="Unity.Timeline.Editor">

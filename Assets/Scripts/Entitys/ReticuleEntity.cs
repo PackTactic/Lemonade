@@ -2,16 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(MovementController2))]
-[RequireComponent(typeof(AimController))]
-[RequireComponent(typeof(SpriteController))]
-[RequireComponent(typeof(GunController))]
-public class PlayerEntity : MonoBehaviour
+[RequireComponent(typeof(PositionController))]
+public class ReticuleEntity : MonoBehaviour
 {
+    public PositionController positionController;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        positionController = GetComponent<PositionController>();
     }
 
     // Update is called once per frame

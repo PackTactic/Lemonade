@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+[System.Obsolete ("GunController is obsolete. Use a GunEntity instead.")]
 public class GunController : MonoBehaviour {
 
     public AimController aimController;
