@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 61
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,13 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-11-03T13:55:03.786-07:00
-  initializedAtString: 2018-11-03T12:16:31.199-07:00
+  lastUpdatedAtString: 2019-05-25T12:47:02.254-07:00
+  initializedAtString: 2019-05-25T12:38:26.966-07:00
   localBranches:
   - name: master
     tracking: origin/master
+  - name: PlayerDependenciesFix
+    tracking: origin/PlayerDependenciesFix
   remoteBranches:
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/PlayerDependenciesFix
     tracking: '[None]'
   remotes:
   - name: origin
@@ -31,21 +36,33 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - PlayerDependenciesFix
     values:
     - name: master
       remote:
         name: origin
         url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
       trackingBranch: master
+    - name: PlayerDependenciesFix
+      remote:
+        name: origin
+        url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+      trackingBranch: PlayerDependenciesFix
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - master
+      - PlayerDependenciesFix
     subKeyValues:
     - Values:
       - name: master
+        remote:
+          name: origin
+          url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
+        trackingBranch: 
+      - name: PlayerDependenciesFix
         remote:
           name: origin
           url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git

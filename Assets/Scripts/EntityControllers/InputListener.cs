@@ -5,19 +5,20 @@ using UnityEngine;
 public class InputListener : MonoBehaviour {
 
     public Camera mainCamera;
-    public MovementController2 playerMovementController;
-    public PositionController reticulePositionController;
-    public AimController playerAimController;
-    public GunController playerGunController;
+    public PlayerEntity player;
+    public ReticuleEntity reticule;
 
     Vector2 pointerWorldPosition;
     Vector2 moveDirectionVector;
     float horizontalAxis;
     float verticalAxis;
+    GunEntity currentGun;
 
     // Use this for initialization
     void Start () {
-		
+        player = FindObjectOfType<PlayerEntity>();
+        mainCamera = FindObjectOfType<Camera>();
+        reticule = FindObjectOfType<ReticuleEntity>();
 	}
 	
 	// Update is called once per frame
@@ -48,13 +49,18 @@ public class InputListener : MonoBehaviour {
 
         }
 
-        playerMovementController.Move(directionVector.normalized);
+        player.movementController.Move(directionVector.normalized);
 
         pointerWorldPosition = mainCamera.ScreenToWorldPoint(Input.mousePosition);
-        reticulePositionController.ChangePosition(pointerWorldPosition);
+        reticule.positionController.ChangePosition(pointerWorldPosition);
 
-        playerAimController.Aim(pointerWorldPosition);
+        player.aimController.Aim(pointerWorldPosition);
 
-        if (Input.GetAxis("Fire1") > 0) playerGunController.Fire();
+
+
+        if (Input.GetAxis("Fire1") > 0)
+        {
+            currentGun = player.CurrentWeapon();
+            if (currentGun) currentGun.Fire(); }
     }
 }

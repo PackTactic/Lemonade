@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 61
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-11-03T13:55:03.827-07:00
-  initializedAtString: 2018-11-03T12:13:41.012-07:00
+  lastUpdatedAtString: 2019-05-25T12:54:40.186-07:00
+  initializedAtString: 2019-05-25T12:37:59.281-07:00
   currentGitRemote:
     name: origin
     url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
@@ -23,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: PlayerDependenciesFix
+    tracking: origin/PlayerDependenciesFix
   currentConfigBranch:
-    name: master
+    name: PlayerDependenciesFix
     remote:
       name: origin
       url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git
-    trackingBranch: master
+    trackingBranch: PlayerDependenciesFix
   currentConfigRemote:
     name: origin
     url: https://reddraptor:aaBc3Hmu@github.com/PackTactic/Lemonade.git

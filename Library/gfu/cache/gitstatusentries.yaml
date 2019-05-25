@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 61
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,138 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-03T14:57:05.264-07:00
-  initializedAtString: 2018-11-03T12:13:41.775-07:00
+  lastUpdatedAtString: 2019-05-25T12:54:40.642-07:00
+  initializedAtString: 2019-05-25T12:37:59.585-07:00
   entries:
-  - path: .vs\Lemonade\v15\.suo
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\.suo
-    projectPath: .vs\Lemonade\v15\.suo
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assembly-CSharp.csproj
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Map Sets.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Map Sets.meta
-    projectPath: Assets\Map Sets.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Map Sets\protoype.asset
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Map Sets\protoype.asset
-    projectPath: Assets\Map Sets\protoype.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Map Sets\protoype.asset.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Map Sets\protoype.asset.meta
-    projectPath: Assets\Map Sets\protoype.asset.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Prefabs\Player Character.prefab
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Prefabs\Player Character.prefab
-    projectPath: Assets\Prefabs\Player Character.prefab
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scenes\Map Prototyping.unity
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Map Prototyping.unity
-    projectPath: Assets\Scenes\Map Prototyping.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scripts\MapComponents\LevelMap.cs
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\LevelMap.cs
-    projectPath: Assets\Scripts\MapComponents\LevelMap.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Scripts\MapComponents\MapComponentSet.cs
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\MapComponentSet.cs
-    projectPath: Assets\Scripts\MapComponents\MapComponentSet.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Scripts\MapComponents\MapComponentSet.cs.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\MapComponentSet.cs.meta
-    projectPath: Assets\Scripts\MapComponents\MapComponentSet.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Scripts\MapComponents\MapSet.cs
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\MapSet.cs
-    projectPath: Assets\Scripts\MapComponents\MapSet.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Scripts\MapComponents\MapSet.cs.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\MapComponents\MapSet.cs.meta
-    projectPath: Assets\Scripts\MapComponents\MapSet.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tile Maps\Prototypes\Empty.prefab
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Maps\Prototypes\Empty.prefab
-    projectPath: Assets\Tile Maps\Prototypes\Empty.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tile Maps\Prototypes\Empty.prefab.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Maps\Prototypes\Empty.prefab.meta
-    projectPath: Assets\Tile Maps\Prototypes\Empty.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tile Maps\Prototypes\EndRoom.prefab
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Maps\Prototypes\EndRoom.prefab
-    projectPath: Assets\Tile Maps\Prototypes\EndRoom.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tile Maps\Prototypes\EndRoom.prefab.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Maps\Prototypes\EndRoom.prefab.meta
-    projectPath: Assets\Tile Maps\Prototypes\EndRoom.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tile Maps\Prototypes\StartRoom.prefab
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Maps\Prototypes\StartRoom.prefab
-    projectPath: Assets\Tile Maps\Prototypes\StartRoom.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Tile Maps\Prototypes\StartRoom.prefab.meta
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Tile Maps\Prototypes\StartRoom.prefab.meta
-    projectPath: Assets\Tile Maps\Prototypes\StartRoom.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\assetDatabase3
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -153,63 +28,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\TilemapEditorUserSettings.asset
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\TilemapEditorUserSettings.asset
-    projectPath: Library\TilemapEditorUserSettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     status: 3
     staged: 0

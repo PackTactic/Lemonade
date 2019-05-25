@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Obsolete("BulletController is obsolete. Use a ProjectileEntity instead.")]
 public class BulletController : MonoBehaviour {
 
     public MovementController2 movementController;
