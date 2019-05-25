@@ -13,6 +13,139 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-05-24T22:05:03.348-07:00
-  initializedAtString: 2019-05-24T22:02:45.204-07:00
-  entries: []
+  lastUpdatedAtString: 2019-05-25T09:37:22.896-07:00
+  initializedAtString: 2019-05-25T09:06:27.488-07:00
+  entries:
+  - path: .vs\Lemonade\v15\.suo
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\.suo
+    projectPath: .vs\Lemonade\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\.vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Lemonade\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Assembly-CSharp.csproj
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Player.cs
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Player.cs
+    projectPath: Assets\Player.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Player.cs.meta
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Player.cs.meta
+    projectPath: Assets\Player.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Character Prototyping.unity
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scenes\Character
+      Prototyping.unity
+    projectPath: Assets\Scenes\Character Prototyping.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\EntityControllers\PlayerEntity.cs
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Assets\Scripts\EntityControllers\PlayerEntity.cs
+    projectPath: Assets\Scripts\EntityControllers\PlayerEntity.cs
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\assetDatabase3
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\CurrentLayout.dwlt
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\Users\ReddRapter\Documents\Unity\Lemonade\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0

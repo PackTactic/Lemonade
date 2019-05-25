@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\AimController.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\BulletController.cs" />
     <Compile Include="Assets\Scripts\EntityControllers\GunController.cs" />
@@ -79,6 +80,9 @@
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
       <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
@@ -101,6 +105,9 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
@@ -109,12 +116,6 @@
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Users/ReddRapter/Documents/Unity/Lemonade/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
